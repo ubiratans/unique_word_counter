@@ -1,3 +1,5 @@
+# Project in draft state
+
 # Application for counting unique words in a file
 
 * This application will receive a file name as input and will process using as many threads as given by `std::thread::hardware_concurrency()` and return the amount of unique words contained in it;
